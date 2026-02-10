@@ -3,12 +3,14 @@
 - Clean and intuitive UI
 - Local state management
 - Filter todos by status (all, active, completed)
+- AI-powered chatbot assistant using Claude
 
 ### Designs
 - Modern card-based layout
 - Input field with add button
 - Todo items with checkbox and delete button
 - Filter tabs for viewing different todo states
+- Chat interface with message history
 - Responsive design
 
 ### Tasks
@@ -17,3 +19,4 @@
 - [x] Build TodoItem component
 - [x] Add filtering functionality
 - [x] Style with semantic design tokens
+- [ ] Add AI chatbot with Claude integration
