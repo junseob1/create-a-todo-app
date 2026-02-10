@@ -19,4 +19,8 @@
 - [x] Build TodoItem component
 - [x] Add filtering functionality
 - [x] Style with semantic design tokens
-- [ ] Add AI chatbot with Claude integration
+- [ ] Create Buildify Cloud edge function for Claude API
+- [ ] Build Chat UI component with message display
+- [ ] Add chat state management and API integration
+- [ ] Integrate chatbot with TodoApp layout
+- [ ] Style chat interface for dark theme
